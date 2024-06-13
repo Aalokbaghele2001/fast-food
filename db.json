@@ -1,0 +1,257 @@
+{
+  "fast food":[
+  {
+    "id": 1,
+    "dish": "Cheeseburger",
+    "image": "https://www.example.com/cheeseburger.jpg",
+    "price": 99,
+    "type": "Non-Vegetarian",
+    "desc": "Grilled beef patty with melted cheese, lettuce, tomato, onion, pickles, and mayo in a sesame seed bun.",
+    "rating": 4.5,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Burger Haven",
+      "address": "123 Burger Street, Mumbai",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free fries with every burger",
+      "rating": 4.7,
+      "about": "Burger Haven is famous for its juicy burgers made with fresh ingredients and grilled to perfection."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "French Fries",
+    "image": "https://www.example.com/frenchfries.jpg",
+    "price": 49,
+    "type": "Vegetarian",
+    "desc": "Crispy golden fries seasoned with salt, served hot.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Fry Station",
+      "address": "456 Potato Lane, Delhi",
+      "timing": "10:30 AM - 9:30 PM",
+      "offers": "Free drink with every combo",
+      "rating": 4.5,
+      "about": "Fry Station offers a variety of fries and quick bites, perfect for a quick snack on the go."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Chicken Nuggets",
+    "image": "https://www.example.com/chickennuggets.jpg",
+    "price": 79,
+    "type": "Non-Vegetarian",
+    "desc": "Breaded and deep-fried chicken nuggets, served with dipping sauce.",
+    "rating": 4.4,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Nugget Zone",
+      "address": "789 Crispy Avenue, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on nuggets",
+      "rating": 4.6,
+      "about": "Nugget Zone specializes in crispy chicken nuggets and quick bites, perfect for snacking."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Margherita Pizza",
+    "image": "https://www.example.com/margheritapizza.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+    "rating": 4.7,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Pizza Palace",
+      "address": "234 Pizza Plaza, Chennai",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on online orders",
+      "rating": 4.8,
+      "about": "Pizza Palace offers a variety of pizzas made with fresh ingredients and traditional recipes."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Hot Dog",
+    "image": "https://www.example.com/hotdog.jpg",
+    "price": 69,
+    "type": "Non-Vegetarian",
+    "desc": "Grilled sausage served in a sliced bun, topped with mustard, ketchup, onions, and relish.",
+    "rating": 4.5,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Hot Dog Heaven",
+      "address": "567 Sausage Street, Kolkata",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "Free drink with every hot dog",
+      "rating": 4.6,
+      "about": "Hot Dog Heaven serves delicious grilled sausages in a variety of styles, perfect for a quick bite."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Chicken Wings",
+    "image": "https://www.example.com/chickenwings.jpg",
+    "price": 139,
+    "type": "Non-Vegetarian",
+    "desc": "Crispy and spicy chicken wings served with a choice of dipping sauces.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Wing Station",
+      "address": "890 Wing Avenue, Hyderabad",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free fries with every wings order",
+      "rating": 4.7,
+      "about": "Wing Station offers a variety of chicken wings with bold flavors, perfect for wing lovers."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Cheese Pizza",
+    "image": "https://www.example.com/cheesepizza.jpg",
+    "price": 139,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, and assorted toppings.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Cheesy Delight",
+      "address": "123 Cheese Street, Pune",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Buy 1 Get 1 Free on pizzas",
+      "rating": 4.5,
+      "about": "Cheesy Delight offers a range of cheesy pizzas with a variety of toppings, sure to satisfy any pizza lover."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Vegetable Burger",
+    "image": "https://www.example.com/vegetableburger.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Grilled vegetable patty with lettuce, tomato, onion, pickles, and mayo in a sesame seed bun.",
+    "rating": 4.5,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Veggie Burger Hub",
+      "address": "456 Veggie Avenue, Delhi",
+      "timing": "11:00 AM - 9:00 PM",
+      "offers": "10% off on all burgers",
+      "rating": 4.6,
+      "about": "Veggie Burger Hub specializes in delicious vegetarian burgers made with fresh and wholesome ingredients."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Onion Rings",
+    "image": "https://www.example.com/onionrings.jpg",
+    "price": 59,
+    "type": "Vegetarian",
+    "desc": "Crispy deep-fried onion rings served with a tangy dipping sauce.",
+    "rating": 4.4,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Crispy Crunch",
+      "address": "789 Onion Lane, Bangalore",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Free drink with every appetizer",
+      "rating": 4.5,
+      "about": "Crispy Crunch offers a range of crispy snacks and appetizers, including their popular onion rings."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Paneer Tikka Wrap",
+    "image": "https://www.example.com/paneertikkawrap.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Grilled paneer tikka wrapped in a soft tortilla with lettuce, tomato, onion, and mint yogurt sauce.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Tikka Wrap House",
+      "address": "234 Paneer Plaza, Chennai",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on online orders",
+      "rating": 4.7,
+      "about": "Tikka Wrap House specializes in wraps and rolls filled with delicious paneer tikka and fresh vegetables."
+    }
+  },
+  [
+  {
+    "id": 11,
+    "dish": "Fish and Chips",
+    "image": "https://www.example.com/fishandchips.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Deep-fried fish fillets served with crispy golden fries, tartar sauce, and lemon wedges.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Fish n' Chips Shack",
+      "address": "123 Fish Lane, Mumbai",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free drink with every meal",
+      "rating": 4.7,
+      "about": "Fish n' Chips Shack serves classic fish and chips with a side of nostalgia, perfect for seafood enthusiasts."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "BBQ Chicken Wings",
+    "image": "https://www.example.com/bbqchickenwings.jpg",
+    "price": 129,
+    "type": "Non-Vegetarian",
+    "desc": "Grilled and marinated chicken wings basted with tangy BBQ sauce, served with ranch dressing.",
+    "rating": 4.7,
+    "category": "fast food",
+    "restaurant": {
+      "name": "BBQ Wing House",
+      "address": "456 BBQ Avenue, Delhi",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "10% off on all BBQ items",
+      "rating": 4.6,
+      "about": "BBQ Wing House specializes in smoky grilled BBQ chicken wings, perfect for BBQ lovers."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Margarita Pizza",
+    "image": "https://www.example.com/margaritapizza.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, fresh basil leaves, and drizzled with olive oil.",
+    "rating": 4.5,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Pizza Joy",
+      "address": "789 Margarita Plaza, Bangalore",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Buy 1 Get 1 Free on pizzas",
+      "rating": 4.6,
+      "about": "Pizza Joy offers a variety of pizzas made with the finest ingredients and traditional recipes."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Fried Chicken Sandwich",
+    "image": "https://www.example.com/friedchickensandwich.jpg",
+    "price": 109,
+    "type": "Non-Vegetarian",
+    "desc": "Crispy fried chicken fillet with lettuce, tomato, pickles, and mayo in a soft sandwich bun.",
+    "rating": 4.6,
+    "category": "fast food",
+    "restaurant": {
+      "name": "Chicken Sandwich Corner",
+      "address": "234 Fried Avenue, Chennai",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free fries with every sandwich",
+      "rating": 4.5,
+      "about": "Chicken Sandwich Corner specializes in hearty fried chicken sandwiches, perfect for a satisfying meal."
+    }
+  }
+]
+  }
