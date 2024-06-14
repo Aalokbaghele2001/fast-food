@@ -9,13 +9,13 @@
     "desc": "Grilled beef patty with melted cheese, lettuce, tomato, onion, pickles, and mayo in a sesame seed bun.",
     "rating": 4.5,
     "category": "fast food",
-    "restaurant": {
-      "name": "Burger Haven",
-      "address": "123 Burger Street, Mumbai",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Free fries with every burger",
+  "restaurant": {
+      "name": "MTR 1924",
+      "address": "14 Lalbagh Road, Bangalore",
+      "timing": "7:00 AM - 10:30 PM",
+      "offers": "Special discounts for breakfast combos",
       "rating": 4.7,
-      "about": "Burger Haven is famous for its juicy burgers made with fresh ingredients and grilled to perfection."
+      "about": ""
     }
   },
   {
@@ -28,12 +28,12 @@
     "rating": 4.6,
     "category": "fast food",
     "restaurant": {
-      "name": "Fry Station",
-      "address": "456 Potato Lane, Delhi",
-      "timing": "10:30 AM - 9:30 PM",
-      "offers": "Free drink with every combo",
-      "rating": 4.5,
-      "about": "Fry Station offers a variety of fries and quick bites, perfect for a quick snack on the go."
+      "name": "Paradise Biryani",
+      "address": "246 SD Road, Secunderabad",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Family packs available",
+      "rating": 4.8,
+      "about": "Paradise Biryani is synonymous with authentic Hyderabadi biryani, known for its rich flavors."
     }
   },
   {
@@ -45,13 +45,13 @@
     "desc": "Breaded and deep-fried chicken nuggets, served with dipping sauce.",
     "rating": 4.4,
     "category": "fast food",
-    "restaurant": {
-      "name": "Nugget Zone",
-      "address": "789 Crispy Avenue, Bangalore",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Buy 1 Get 1 Free on nuggets",
+   "restaurant": {
+      "name": "Saravana Bhavan",
+      "address": "567 RK Salai, Chennai",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "Weekend brunch specials",
       "rating": 4.6,
-      "about": "Nugget Zone specializes in crispy chicken nuggets and quick bites, perfect for snacking."
+      "about": "Saravana Bhavan is a global chain renowned for its South Indian vegetarian delicacies, served with authentic flavors and hospitality."
     }
   },
   {
@@ -81,13 +81,13 @@
     "desc": "Grilled sausage served in a sliced bun, topped with mustard, ketchup, onions, and relish.",
     "rating": 4.5,
     "category": "fast food",
-    "restaurant": {
-      "name": "Hot Dog Heaven",
-      "address": "567 Sausage Street, Kolkata",
-      "timing": "11:30 AM - 10:00 PM",
-      "offers": "Free drink with every hot dog",
-      "rating": 4.6,
-      "about": "Hot Dog Heaven serves delicious grilled sausages in a variety of styles, perfect for a quick bite."
+      "restaurant": {
+      "name": "Adyar Ananda Bhavan",
+      "address": "123 GN Road, Adyar, Chennai",
+      "timing": "6:30 AM - 11:00 PM",
+      "offers": "South Indian breakfast combos",
+      "rating": 4.7,
+      "about": "Adyar Ananda Bhavan is a well-known chain offering a wide variety of South Indian vegetarian dishes with a focus on taste and quality."
     }
   },
   {
@@ -99,13 +99,13 @@
     "desc": "Crispy and spicy chicken wings served with a choice of dipping sauces.",
     "rating": 4.6,
     "category": "fast food",
-    "restaurant": {
-      "name": "Wing Station",
-      "address": "890 Wing Avenue, Hyderabad",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "Free fries with every wings order",
-      "rating": 4.7,
-      "about": "Wing Station offers a variety of chicken wings with bold flavors, perfect for wing lovers."
+ "restaurant": {
+      "name": "Coastal Express",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Coastal delicacies",
+      "rating": 4.6,
+      "about": "Coastal Express specializes in authentic South Indian coastal cuisine, offering a delightful culinary journey along the coastline."
     }
   },
   {
@@ -117,13 +117,13 @@
     "desc": "Pizza topped with tomato sauce, mozzarella cheese, and assorted toppings.",
     "rating": 4.6,
     "category": "fast food",
-    "restaurant": {
-      "name": "Cheesy Delight",
-      "address": "123 Cheese Street, Pune",
-      "timing": "11:30 AM - 10:30 PM",
-      "offers": "Buy 1 Get 1 Free on pizzas",
-      "rating": 4.5,
-      "about": "Cheesy Delight offers a range of cheesy pizzas with a variety of toppings, sure to satisfy any pizza lover."
+   "restaurant": {
+      "name": "Janatha Hotel",
+      "address": "456 MG Road, Mysore",
+      "timing": "7:00 AM - 11:00 PM",
+      "offers": "Traditional Mysore dishes",
+      "rating": 4.6,
+      "about": "Janatha Hotel is a local favorite known for its authentic Mysore dishes and warm hospitality, serving generations of satisfied customers."
     }
   },
   {
@@ -134,14 +134,13 @@
     "type": "Vegetarian",
     "desc": "Grilled vegetable patty with lettuce, tomato, onion, pickles, and mayo in a sesame seed bun.",
     "rating": 4.5,
-    "category": "fast food",
-    "restaurant": {
-      "name": "Veggie Burger Hub",
-      "address": "456 Veggie Avenue, Delhi",
-      "timing": "11:00 AM - 9:00 PM",
-      "offers": "10% off on all burgers",
-      "rating": 4.6,
-      "about": "Veggie Burger Hub specializes in delicious vegetarian burgers made with fresh and wholesome ingredients."
+     "restaurant": {
+      "name": "Sagar Ratna",
+      "address": "678 MG Road, Bangalore",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "South Indian breakfast specials",
+      "rating": 4.5,
+      "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
     }
   },
   {
@@ -154,12 +153,12 @@
     "rating": 4.4,
     "category": "fast food",
     "restaurant": {
-      "name": "Crispy Crunch",
-      "address": "789 Onion Lane, Bangalore",
-      "timing": "11:30 AM - 10:30 PM",
-      "offers": "Free drink with every appetizer",
-      "rating": 4.5,
-      "about": "Crispy Crunch offers a range of crispy snacks and appetizers, including their popular onion rings."
+      "name": "Udupi Upachar",
+      "address": "901 Jayanagar, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Traditional Udupi cuisine",
+      "rating": 4.6,
+      "about": "Udupi Upachar offers authentic Udupi cuisine with a focus on traditional flavors and homely preparation."
     }
   },
   {
@@ -171,13 +170,13 @@
     "desc": "Grilled paneer tikka wrapped in a soft tortilla with lettuce, tomato, onion, and mint yogurt sauce.",
     "rating": 4.6,
     "category": "fast food",
-    "restaurant": {
-      "name": "Tikka Wrap House",
-      "address": "234 Paneer Plaza, Chennai",
-      "timing": "12:00 PM - 10:30 PM",
-      "offers": "20% off on online orders",
-      "rating": 4.7,
-      "about": "Tikka Wrap House specializes in wraps and rolls filled with delicious paneer tikka and fresh vegetables."
+   "restaurant": {
+      "name": "Andhra Bhavan",
+      "address": "123 RK Puram, Delhi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Authentic Andhra cuisine",
+      "rating": 4.5,
+      "about": "Andhra Bhavan is renowned for its authentic Andhra meals and hospitality, serving flavors that capture the essence of Andhra Pradesh."
     }
   },
   {
@@ -190,12 +189,12 @@
     "rating": 4.6,
     "category": "fast food",
     "restaurant": {
-      "name": "Fish n' Chips Shack",
-      "address": "123 Fish Lane, Mumbai",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Free drink with every meal",
+      "name": "Chettinad Cuisine",
+      "address": "345 T Nagar, Chennai",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Special lunch thalis",
       "rating": 4.7,
-      "about": "Fish n' Chips Shack serves classic fish and chips with a side of nostalgia, perfect for seafood enthusiasts."
+      "about": "Chettinad Cuisine specializes in the bold and spicy flavors of Chettinad, offering a wide range of traditional South Indian dishes."
     }
   },
   {
@@ -208,12 +207,12 @@
     "rating": 4.7,
     "category": "fast food",
     "restaurant": {
-      "name": "BBQ Wing House",
-      "address": "456 BBQ Avenue, Delhi",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "10% off on all BBQ items",
-      "rating": 4.6,
-      "about": "BBQ Wing House specializes in smoky grilled BBQ chicken wings, perfect for BBQ lovers."
+      "name": "Bangalore Bites",
+      "address": "456 Brigade Road, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Combo meals available",
+      "rating": 4.8,
+      "about": "Bangalore Bites offers a delicious range of Karnataka's traditional dishes, served in a cozy and welcoming setting."
     }
   },
   {
@@ -225,13 +224,13 @@
     "desc": "Pizza topped with tomato sauce, mozzarella cheese, fresh basil leaves, and drizzled with olive oil.",
     "rating": 4.5,
     "category": "fast food",
-    "restaurant": {
-      "name": "Pizza Joy",
-      "address": "789 Margarita Plaza, Bangalore",
-      "timing": "11:30 AM - 10:30 PM",
-      "offers": "Buy 1 Get 1 Free on pizzas",
-      "rating": 4.6,
-      "about": "Pizza Joy offers a variety of pizzas made with the finest ingredients and traditional recipes."
+   "restaurant": {
+      "name": "Kerala Kitchen",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Seafood specials",
+      "rating": 4.9,
+      "about": "Kerala Kitchen brings the rich and diverse flavors of Kerala to your plate, known for its traditional recipes and warm hospitality."
     }
   },
   {
@@ -243,13 +242,13 @@
     "desc": "Crispy fried chicken fillet with lettuce, tomato, pickles, and mayo in a soft sandwich bun.",
     "rating": 4.6,
     "category": "fast food",
-    "restaurant": {
-      "name": "Chicken Sandwich Corner",
-      "address": "234 Fried Avenue, Chennai",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Free fries with every sandwich",
-      "rating": 4.5,
-      "about": "Chicken Sandwich Corner specializes in hearty fried chicken sandwiches, perfect for a satisfying meal."
+     "restaurant": {
+      "name": "Seafood Corner",
+      "address": "890 Beach Road, Kovalam",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Seafood platters",
+      "rating": 4.6,
+      "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
     }
   }
 ]
