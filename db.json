@@ -114,8 +114,7 @@
     "image": "https://www.example.com/cheesepizza.jpg",
     "price": 139,
     "type": "Vegetarian",
-    "desc": 
-    "Pizza topped with tomato sauce, mozzarella cheese, and assorted toppings.",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, and assorted toppings.",
     "rating": 4.6,
     "category": "fast food",
    "restaurant": {
@@ -135,6 +134,7 @@
     "type": "Vegetarian",
     "desc": "Grilled vegetable patty with lettuce, tomato, onion, pickles, and mayo in a sesame seed bun.",
     "rating": 4.5,
+        "category": "fast food",
      "restaurant": {
       "name": "Sagar Ratna",
       "address": "678 MG Road, Bangalore",
